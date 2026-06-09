@@ -669,7 +669,7 @@
       "de": "Khi kiểm tra cầu chì bị đứt, dùng đồng hồ vạn năng ở thang đo nào?",
       "a": "DCV",
       "b": "ACV",
-      "c": "Ω (điện trở), nếu hiển thị "OL" hoặc vô cùng là đứt",
+      "c": "Ω (điện trở), nếu hiển thị 'OL' hoặc vô cùng là đứt",
       "d": "A (dòng điện)",
       "dap_an": "c",
       "giai_thich": "Đo thông mạch bằng thang điện trở, nếu cầu chì tốt → điện trở ≈0, đứt → không lên kim (∞)."
